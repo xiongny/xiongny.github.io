@@ -1,3 +1,3 @@
 ---
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Google Scholar](http://academicpages.github.io/files/paper2.pdf)
 ---
