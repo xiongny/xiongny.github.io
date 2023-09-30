@@ -5,8 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' '
 date: 2023
 venue: 'Thirty-seventh Conference on Neural Information Processing Systems'
-'
-paperurl: ''
+paperurl: ' '
 citation: 'Nuoya Xiong, Yihan Du, Longbo Huang'
 ---
 This paper is about the number 1. The number 2 is left for future work.
