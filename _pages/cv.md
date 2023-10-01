@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+See my [CV](http://xiongny.github.io/CV.pdf)
+
 Education
 ======
 * B.S. in IIIS, Tsinghua University, 2020
