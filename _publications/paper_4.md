@@ -2,7 +2,7 @@
 title: "Combinatorial Causal Bandits without Graph Skeleton"
 collection: publications
 permalink: /publication/paper-4
-excerpt: 'Feng Shi$*$, *Nuoya Xiong*$*$, Wei Chen'
+excerpt: 'Feng Shi\*, *Nuoya Xiong*\*, Wei Chen'
 date: 2023-01-31
 venue: 'Preprint'
 paperurl: ' '
