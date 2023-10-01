@@ -13,9 +13,9 @@ Hi! This is Nuoya Xiong's (熊诺亚) personal page. I am an undergraduate stude
 During my undergraduate years, I was immensely fortunate to receive guidance from several kind and inspiring professors. I am deeply thankful to them for their support and mentorship:
 * Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/): Microsoft Research Asia. He opened the door to scientific research for me and patiently guided and encouraged me when I started scientific research.
 * Prof. [Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/): IIIS, Tsinghua University. 
-He led me into the field of reinforcement learning theory and patiently supported every idea I came up with.
-* Prof. [Zhuoran Yang](https://scholar.google.com/citations?user=k7NgVSUAAAAJ&hl=en): Yale University. He gave me a comprehensive understanding of the cutting-edge issues of function approximation in reinforcement learning theory. While encouraging me, he taught me many detailed regulations in scientific research.
-* Prof. [Zhaoran Wang](https://zhaoranwang.github.io/): Northwestern University. He provided me with many interesting topics and actively guided me in scientific research.
+He led me into the field of reinforcement learning theory and patiently supported every idea I came up with. He also helped me to polish the paper in every detail.
+* Prof. [Zhuoran Yang](https://scholar.google.com/citations?user=k7NgVSUAAAAJ&hl=en): Yale University. He gave me a comprehensive understanding of the cutting-edge issues of function approximation in reinforcement learning theory. While encouraging me, he taught me many detailed regulations in scientific research. He also assisted me in refining every detail of the paper.
+* Prof. [Zhaoran Wang](https://zhaoranwang.github.io/): Northwestern University. He provided me with many interesting topics and actively guided me in scientific research. He also gave me necessary encouragement when I was in trouble.  
 * Prof. [Simon S. Du](https://simonshaoleidu.com/): University of Washington. He opened the door to deep learning theory and optimization theory for me, allowing me to understand the cutting-edge knowledge in this field. At the same time, he actively encouraged me when I encountered difficulties in scientific research and provided a lot of extremely useful guidance.
 
 I am also grateful to all my collaborators. 
