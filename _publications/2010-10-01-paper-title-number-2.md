@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2023-09-28
 venue: 'Thirty-seventh Conference on Neural Information Processing Systems'
 paperurl: ' '
-citation: 'Nuoya Xiong, Yihan Du, Longbo Huang'
+citation: '<font color = blue>Nuoya Xiong</font>, Yihan Du, Longbo Huang'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
