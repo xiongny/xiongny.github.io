@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2023-01-23
 venue: 'Twelfth International Conference on Learning Representations'
 paperurl: '[Download Paper Here](https://openreview.net/forum?id=pBBsrPzq7aF)'
-citation: 'Nuoya Xiong, Wei Chen'
+citation: '<font color=blue>Nuoya Xiong</font>, Wei Chen'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
