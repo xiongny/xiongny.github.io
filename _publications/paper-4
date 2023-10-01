@@ -1,13 +1,12 @@
 ---
 title: "Combinatorial Causal Bandits without Graph Skeleton"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper-4
 excerpt: 'Feng Shi$*$, *Nuoya Xiong*$*$, Wei Chen'
 date: 2023-01-31
 venue: 'Preprint'
 paperurl: ' '
 citation: ' '
 ---
-We take the first step in studying general sequential decision-making under two adaptivity constraints:  rare policy switch and batch learning.  First, we provide a general class called the Eluder Condition class, which includes a wide range of  reinforcement learning classes. Then, for the rare policy switch constraint, we provide a generic algorithm to achieve a $\widetilde{\mathcal{O}}(\log K) $ switching cost with a $\widetilde{\mathcal{O}}(\sqrt{K})$ regret on the EC class. For the batch learning constraint, we provide an algorithm that provides a $\widetilde{\mathcal{O}}(\sqrt{K}+K/B)$ regret with the number of batches $B.$ This paper is the first work considering rare policy switch and  batch learning  under general function classes, which covers nearly all the models studied in the previous works such as  tabular MDP (Bai et al. 2019, Zhang et al. 2020), linear MDP (Gao et al. 2021; Wang et al. 2021), low eluder dimension MDP (Kong et al. 2021; Velegkas et al. 2022), generalized linear function approximation (Qiao et al. 2023), and also some new classes such as the low $D_\Delta$-type Bellman eluder dimension problem, linear mixture MDP, kernelized nonlinear regulator and undercomplete partially observed Markov decision process (POMDP).  
-
-[Download paper here](https://arxiv.org/pdf/2306.14468.pdf)
+In combinatorial causal bandits (CCB), the learning agent chooses a subset of variables in each round to intervene and collects feedback from the observed variables to minimize expected regret or sample complexity. Previous works study this problem in both general causal models and binary generalized linear models (BGLMs). However, all of them require prior knowledge of causal graph structure. This paper studies the CCB problem without the graph structure on binary general causal models and BGLMs. We first provide an exponential lower bound of cumulative regrets for the CCB problem on general causal models. To overcome the exponentially large space of parameters, we then consider the CCB problem on BGLMs. We design a regret minimization algorithm for BGLMs even without the graph skeleton and show that it still achieves $O(\sqrt{T}\ln T)$ expected regret. This asymptotic regret is the same as the state-of-art algorithms relying on the graph structure. Moreover, we sacrifice the regret to $O(T^{\frac{2}{3}}\ln T)$ to remove the weight gap covered by the asymptotic notation. 
+[Download paper here](https://arxiv.org/pdf/2301.13392.pdf)
