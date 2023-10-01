@@ -3,7 +3,7 @@ title: "A General Framework for Sequential Decision-Making under Adaptivity Cons
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '*Nuoya Xiong*, Zhaoran Wang, Zhuoran Yang'
-date: 2023
+date: 2023-06-26
 venue: 'Preprint'
 paperurl: ' '
 citation: ' '
