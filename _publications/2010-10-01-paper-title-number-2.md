@@ -1,5 +1,5 @@
 ---
-title: "(Neurips 2023) [Provably Safe Reinforcement Learning with Step-wise Violation Constraints] (https://arxiv.org/abs/2302.06064)"
+title: "(Neurips 2023)[Provably Safe Reinforcement Learning with Step-wise Violation Constraints](https://arxiv.org/abs/2302.06064)"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' '
