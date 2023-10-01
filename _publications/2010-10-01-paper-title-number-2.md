@@ -3,7 +3,7 @@ title: "(Neurips 2023) [Provably Safe Reinforcement Learning with Step-wise Viol
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' '
-date: 2023
+date: 2023-09-28
 venue: 'Thirty-seventh Conference on Neural Information Processing Systems'
 paperurl: ' '
 citation: 'Nuoya Xiong, Yihan Du, Longbo Huang'
