@@ -1,5 +1,5 @@
 ---
-title: "(ICLR 2023) [Combinatorial Pure Exploration of Causal Bandits](https://openreview.net/pdf?id=pBBsrPzq7aF) <br /> **Nuoya Xiong**, Wei Chen"
+title: "(ICLR 2023) [Combinatorial Pure Exploration of Causal Bandits](https://openreview.net/pdf?id=pBBsrPzq7aF) \n **Nuoya Xiong**, Wei Chen"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ' '
