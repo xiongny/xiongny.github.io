@@ -11,7 +11,7 @@ redirect_from:
 Hi! This is Nuoya Xiong's (熊诺亚) personal page. I am an undergraduate student at IIIS(Yao class), Tsinghua University. My research interest is learning theory, especially theory in reinforcement learning theory and deep learning theory. My research goal is to understand the phenomenon of machine learning and provide new efficient algorithms from the theoretical aspect, serving as a guide for the application of machine learning. 
 
 During my undergraduate years, I was immensely fortunate to receive guidance from several kind and inspiring professors. I am deeply thankful to them for their support and mentorship:
-* Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/): Microsoft Research Asia. He opened the door to scientific research for me and patiently guided and encouraged me when I started scientific research.
+* Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/): Microsoft Research Asia. He opened the door to scientific research for me and patiently guided and encouraged me when I started scientific research. He is an enlightener on my scientific research path.
 * Prof. [Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/): IIIS, Tsinghua University. 
 He led me into the field of reinforcement learning theory and patiently supported every idea I came up with. He also helped me to polish the paper in every detail.
 * Prof. [Zhuoran Yang](https://scholar.google.com/citations?user=k7NgVSUAAAAJ&hl=en): Yale University. He gave me a comprehensive understanding of the cutting-edge issues of function approximation in reinforcement learning theory. While encouraging me, he taught me many detailed regulations in scientific research. He also assisted me in refining every detail of the paper.
