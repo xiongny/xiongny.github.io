@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper_5
 excerpt: '*Nuoya Xiong*, Lijun Ding, Simon S. Du'
 date: 2023-10-05
-venue: 'preprint 2023'
+venue: 'NeurIPS 2023 OPT Workshop'
 paperurl: ' '
 citation: ' '
 ---
