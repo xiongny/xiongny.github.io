@@ -1,10 +1,10 @@
 ---
-title: "(ICLR 2024 spotlight)How Over-Parameterization Slows Down Gradient Descent in Matrix Sensing: The Curses of Symmetry and Initialization"
+title: "(ICLR 2024 <font color=red>spotlight</font>) How Over-Parameterization Slows Down Gradient Descent in Matrix Sensing: The Curses of Symmetry and Initialization"
 collection: publications
 permalink: /publication/paper_5
 excerpt: '*Nuoya Xiong*, Lijun Ding, Simon S. Du'
-date: 2023-10-05
-venue: 'International Conference on Learning Representations, 2024'
+date: 2024-01-16
+venue: 'International Conference on Learning Representations'
 paperurl: ' '
 citation: ' '
 ---
