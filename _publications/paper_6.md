@@ -1,10 +1,10 @@
 ---
-title: "Sample-Efficient Multi-Agent RL: An Optimization Perspective"
+title: "(ICLR 2024) Sample-Efficient Multi-Agent RL: An Optimization Perspective"
 collection: publications
 permalink: /publication/paper_6
 excerpt: '*Nuoya Xiong*\*, Zhihan Liu\*, Zhaoran Wang, Zhuoran Yang'
 date: 2023-11-20
-venue: 'Preprint 2023'
+venue: 'International Conference on Learning Representations, 2024'
 paperurl: ' '
 citation: ' '
 ---
