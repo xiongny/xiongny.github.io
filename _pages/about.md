@@ -22,6 +22,7 @@ I am also grateful to all my collaborators.
 
 
 # Recent News
+* 2024.01 Two Paper was accetped by ICLR 2024! One paper is selected as the spotlight paper.
 * 2023.10 I get the Tsinghua Comprehensive Excellence Scholarship. 
 * 2023.09 I get the "Yao Award" in IIIS, Tsinghua University (top 9) (Bronze Metal).
 * 2023.09 One Paper was accepted by NeurIPS 2023！
