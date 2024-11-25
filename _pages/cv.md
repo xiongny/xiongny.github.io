@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See my [CV](http://xiongny.github.io/resume_nuoya_xiong.pdf) here.
+See my [CV](http://xiongny.github.io/CV.pdf) here.
 
 Education
 ======
