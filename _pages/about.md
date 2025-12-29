@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Nuoya Xiong's (熊诺亚) personal page. I am a first-year PhD student in CMU, Machine Learning Department, advised by Prof. Aarti Singh. Before that, I am an undergraduate student at IIIS(Yao class), Tsinghua University. My recent research interest is learning theory and RLHF/LLM, especially theoretically elegant and implement-friendly algorithms for RLHF/LLM/decision-making. I am also interested in reinforcement learning theory and deep learning theory. My research goal is to understand the phenomenon of machine learning and provide new efficient algorithms from the theoretical aspect, serving as a guide for the application of machine learning. 
+Hi! This is Nuoya Xiong's (熊诺亚) personal page. I am a second-year PhD student in CMU, Machine Learning Department, advised by Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/). During the 2025 summer, I spent a perfect time at Meta NYC, working with [Zhuokai Zhao](https://zhuokai-zhao.com/). Before that, I was an undergraduate student at IIIS(Yao class), Tsinghua University. 
+
+In theory, my recent research focuses on the foundations of decision-making, Multi-agent RL and RLHF, with an emphasis on developing theoretically elegant and implementation-friendly algorithms for decision-making. Empirically, I study the post-training and alignment of large language models, focusing on efficient and robust RLHF methods and multi-model collaboration in practical settings.  My research goal is to understand the phenomenon of machine learning and provide new, efficient algorithms from a theoretical aspect, serving as a guide for the application of machine learning. 
 
 I was immensely fortunate to receive guidance from several kind and inspiring professors. I am deeply thankful to them for their support and mentorship:
 * Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/)
+* Prof. [Zhuokai Zhao](https://zhuokai-zhao.com/)
 * Prof. [Wei Chen](https://www.microsoft.com/en-us/research/people/weic/)
 * Prof. [Longbo Huang](http://people.iiis.tsinghua.edu.cn/~huang/)
 * Prof. [Zhuoran Yang](https://scholar.google.com/citations?user=k7NgVSUAAAAJ&hl=en)
@@ -23,6 +26,8 @@ I am also grateful to all my collaborators.
 
 
 # Recent News
+* 2025.05 Starting an internship at Meta NYC with mentor Zhuokai Zhao and Yao Zhang!
+* 2025.02 My work on multi-objective RLHF is accepted by ICML 2025! https://arxiv.org/pdf/2502.15145
 * 2024.09 Start the PhD in CMU!
 * 2024.04 One paper was accepted by ICML 2024! 
 * 2024.01 Two papers were accepted by ICLR 2024! One paper is selected as the spotlight paper.
