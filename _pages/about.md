@@ -26,8 +26,9 @@ I am also grateful to all my collaborators.
 
 
 # Recent News
+* 2026.01 Paper about [multi-LLM collaboration](https://arxiv.org/abs/2601.05106) during Meta internship is released!
 * 2025.05 Starting an internship at Meta NYC with mentor Zhuokai Zhao and Yao Zhang!
-* 2025.02 My work on multi-objective RLHF is accepted by ICML 2025! https://arxiv.org/pdf/2502.15145
+* 2025.02 My work on [multi-objective RLHF](https://arxiv.org/pdf/2502.15145) is accepted by ICML 2025!
 * 2024.09 Start the PhD in CMU!
 * 2024.04 One paper was accepted by ICML 2024! 
 * 2024.01 Two papers were accepted by ICLR 2024! One paper is selected as the spotlight paper.
